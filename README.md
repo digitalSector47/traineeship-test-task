@@ -1,6 +1,6 @@
 # DS // Тестовое задание для стажировки
 
-Необходимо реализовать веб-приложение momentum, аналог https://chromewebstore.google.com/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=ru&pli=1
+Необходимо реализовать веб-приложение momentum, аналог [расширения](https://chromewebstore.google.com/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=ru&pli=1)
 В приложении есть часы, дата, слайдер изображений, виджеты погоды, списокз задач, цитата дня. Для хранения населённого пункта используется локальное хранилище - local storage.
 
 **Элементы интерфейса:**
@@ -14,7 +14,7 @@
 - Для определения текущего города использовать geolocation api
 - Для получения погоды использовать [список api](https://github.com/public-api-lists/public-api-lists?tab=readme-ov-file#weather)
   
-## Блок слайдер изображений на фоне**
+## Блок слайдер изображений на фоне
 - Динамичная смена обоев в зависимости от текущего времени
   
 **Функционал:**
