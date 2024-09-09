@@ -64,6 +64,6 @@
 - [Dведение в браузерные события](https://learn.javascript.ru/introduction-browser-events)
 - [стили и классы](https://learn.javascript.ru/styles-and-classes)
 - [Изменение документа](https://learn.javascript.ru/modifying-document)
-- [Асинхронность в JavaScript]([https://habr.com/ru/post/474726/](https://doka.guide/js/async-in-js/))
-- [async/await]([https://doka.guide/js/async-await/])
+- [Асинхронность в JavaScript](https://doka.guide/js/async-in-js/)
+- [async/await](https://doka.guide/js/async-await/)
 
