@@ -11,7 +11,7 @@
 **Функционал:**
 - Для определения текущего города использовать geolocation api, город по умолчанию Краснодар
 - Для хранения населённого пункта используется локальное хранилище - local storage.
-- Для получения погоды использовать [список api](https://github.com/public-api-lists/public-api-lists?tab=readme-ov-file#weather)
+- Для получения погоды использовать [список api](https://github.com/public-api-lists/public-api-lists?tab=readme-ov-file#weather) любой из списка можно использовать
   
 ## Блок слайдер изображений на фоне
 - Динамичная смена обоев в зависимости от текущего времени
@@ -66,4 +66,5 @@
 - [Изменение документа](https://learn.javascript.ru/modifying-document)
 - [Асинхронность в JavaScript](https://doka.guide/js/async-in-js/)
 - [async/await](https://doka.guide/js/async-await/)
+
 
